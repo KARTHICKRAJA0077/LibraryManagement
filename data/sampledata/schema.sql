@@ -1,0 +1,1 @@
+create table books(bookName varchar(50), bookAuthor varchar(50), availibility varchar(50)); 
